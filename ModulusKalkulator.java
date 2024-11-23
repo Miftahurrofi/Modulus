@@ -9,7 +9,7 @@ package Modulus;
  * @author WINDOWS 11
  */
 public class ModulusKalkulator {
-    public int modulus(int a, int b) {
+   int modulus(int a, int b) {
         return a % b;
         
     
